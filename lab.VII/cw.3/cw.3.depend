@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734031129 source:c:\users\natal\documents\studia\sem.i\podstawy programowania\lab.vii\cw.3\main.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+

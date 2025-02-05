@@ -1,0 +1,4 @@
+Pierwszy_wiersz 123
+Drugi_wiersz!
+Kolejny123_wiersz, z przecinkami
+Czwarty wiersz raz dwa i trzy.

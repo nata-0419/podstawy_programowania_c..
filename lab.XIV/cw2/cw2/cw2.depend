@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1738152370 source:c:\users\natal\documents\studia\sem.i\podstawy programowania\lab.xiv\cw2\cw2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<iomanip>
+

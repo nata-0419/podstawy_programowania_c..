@@ -1,0 +1,17 @@
+Natalia;Goras;Informatyka;90
+Zosia;Mroz;Fizyka;85
+Kuba;Brzozowski;Budownictko;60
+Bartek;Kowalski;Informatyk;80
+Robert;XXXX;Fizyk;120
+
+Najlepszy kandydat: 
+Imie: Natalia
+Nazwisko: Goras
+Kierunek: Informatyka
+Suma punktow: 90
+
+Najlepszy kandydat: 
+Imie: Robert
+Nazwisko: XXXX
+Kierunek: Fizyk
+Suma punktow: 120

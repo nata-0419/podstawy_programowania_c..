@@ -1,0 +1,13 @@
+Raport o towarach i zamowieniach
+Data raportu: Mon Jan 27 09:22:00 2025
+Raport sporzadzil: natalia goras
+
+
+               Towar            Dostawca     IloscCena jednostkowa        Wartosc
+              Laptop             samsung        10        2500.00       25000.00
+            Smartfon             samsung        15        1200.50       18007.50
+             Monitor              lenovo         8        1800.75       14406.00
+
+Podsumowanie dla dostawcy 'samsung':
+Calkowita wartosc zamowionych towarow: 43007.50
+Srednia wartosc zamowienia: 21503.75

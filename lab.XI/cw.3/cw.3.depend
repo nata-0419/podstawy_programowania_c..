@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1736858430 source:c:\users\natal\documents\studia\sem.i\podstawy programowania\lab.xi\cw.3\main.cpp
+	<iostream>
+	<cstring>
+	"funkcje.h"
+
+1736859097 c:\users\natal\documents\studia\sem.i\podstawy programowania\lab.xi\cw.3\funkcje.h
+	<string>
+	<iostream>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1733066398 source:c:\users\natal\documents\studia\sem.i\podstawy programowania\lab.iii\cw.3\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+

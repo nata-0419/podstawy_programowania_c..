@@ -1,0 +1,9 @@
+Raport o wynagrodzeniach
+Data raportu: Wed Jan 29 13:12:17 2025
+Raport sporzadzil: Natalia
+            Nazwisko                         Adres          Stanowisko    Brutto
+            Kowalski     Warszawa, ul. Kwiatowa 10         Programista   5000.50
+               Nowak      Kraków, ul. Wiatraczna 5           Kierownik   7500.00
+          Wiœniewski         Gdañsk, ul. Morska 15         Programista   5200.00
+
+Srednia pensja dla stanowiska 'Programista' wynosi: 5100.25

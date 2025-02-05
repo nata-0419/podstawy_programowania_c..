@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1733835154 source:c:\users\natal\documents\studia\sem.i\podstawy programowania\lab.ix\lab.2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<unordered_set>
+

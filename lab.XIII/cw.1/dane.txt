@@ -1,0 +1,4 @@
+W notatniku utwórz plik tekstowy dane.txt. 
+W kolejnych wierszach podaj dowolny tekst. Napisz program, który:
+wczyta dane z pliku,
+wypisze ile razy w każdym wierszu wystąpiła litera np. 'a'.

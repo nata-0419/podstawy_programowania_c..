@@ -1,0 +1,3 @@
+Sienkiewicz, Krzyzacy, 50, 100
+Prus, Lalka, 78, 23
+Gombrowicz, Ferdydurke, 66, 55
